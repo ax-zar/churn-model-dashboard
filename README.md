@@ -116,7 +116,7 @@ churn-prediction/
 
 1. Clona el repositorio:  
    git clone https://github.com/ax-zar/churn-model-dashboard.git
-   cd churn-dashboard
+   cd churn-model-dashboard
 
 2. Crea y activa un entorno virtual (recomendado):
 
