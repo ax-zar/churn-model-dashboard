@@ -49,6 +49,11 @@ Páginas principales:
 - Insights: Importancia de variables y análisis interactivo.
 - Monitoreo: Seguimiento histórico del modelo y detección de drift.
 
+## 🔗 Demo en vivo
+
+Puedes probar la demo interactiva del dashboard aquí:  
+👉 [Dashboard Churn Telecom](https://axzar-churn-model-dashboard.streamlit.app/)
+
 ---
 
 ## 📂 Estructura del proyecto
@@ -150,9 +155,10 @@ Se seleccionó Regresión Logística por su balance entre precisión y explicabi
 
 ## 🔗 Recursos
 
-- Dataset: https://www.kaggle.com/blastchar/telco-customer-churn
+- Demo en vivo: https://axzar-churn-model-dashboard.streamlit.app/
 - Repositorio GitHub: https://github.com/ax-zar/churn-model-dashboard
 - LinkedIn: https://www.linkedin.com/in/axzar/
+- Dataset: https://www.kaggle.com/blastchar/telco-customer-churn
 
 ---
 
