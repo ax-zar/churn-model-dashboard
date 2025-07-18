@@ -7,7 +7,7 @@ from utils.plot_utils import (
     plot_risk_factors,
     plot_churn_reduction
 )
-from config.config import apply_custom_css, show_header
+from config.config import apply_custom_css
 
 # Configuración inicial
 st.set_page_config(page_title="Home | Churn Dashboard", layout="wide")

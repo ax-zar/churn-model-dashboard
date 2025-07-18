@@ -140,11 +140,6 @@ def apply_custom_css():
         box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     }
     
-    /* Ocultar elementos de Streamlit */
-    #MainMenu {visibility: hidden;}
-    footer {visibility: hidden;}
-    header {visibility: hidden;}
-    
     /* Estilo para títulos */
     h1 {
         color: #1f77b4;
